@@ -1,0 +1,14 @@
+{
+    "name": "cinestream-api",
+    "version": "1.0.0",
+    "description": "Protótipo de API da CineStream",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "author": "",
+    "license": "ISC"
+}
